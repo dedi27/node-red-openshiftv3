@@ -17,7 +17,7 @@ var settings = {
     nodesDir: "/Users/allomov/work/altoros/node-red/app/nodes",
     storageModule: require("node-red-flows-mongo"),
     //mongoUrl: 'mongodb://localhost/nodered',
-    mongoUrl: 'mongodb://user1FL:P1juXEcjK2NrPtng@mongodb-arduino.192.168.99.100.nip.io/arduino',
+    mongoUrl: 'mongodb://arduino:araujo27@localhost:27017/arduino',
     httpAdminRoot:"/",
     httpNodeRoot: "/api",
     uiPort: 8080,
