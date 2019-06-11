@@ -11,7 +11,7 @@
         "node-red-flows-mongo":"0.5.2",
         "node-red": "0.20.4",
         "node-red-node-xmpp":"0.1.7",
-        "node-red-dashboard":"2.9.4",
+        "node-red-dashboard":"2.15.4",
         "node-red-contrib-mdashboard":"0.1.5",
         "node-red-contrib-graphs":"0.3.5",
         "node-red-node-youtube":"0.0.5",
