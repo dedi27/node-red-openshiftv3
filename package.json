@@ -4,15 +4,15 @@
         "start": "node app.js"
     },
     "dependencies": {
-        "express": "4.16.x",
-        "basic-auth": "2.0.0",
+        "express": "4.17.x",
+        "basic-auth": "2.0.x",
         "bcryptjs": "2.4.3",
-        "mqtt": "2.18.0",
+        "mqtt": "3.0.x",
         "node-red-flows-mongo":"0.5.2",
-        "node-red": "0.20.4",
-        "node-red-node-xmpp":"0.1.7",
-        "node-red-dashboard":"2.15.4",
-        "node-red-contrib-mdashboard":"0.1.5",
+        "node-red": "0.20.7",
+        "node-red-node-xmpp":"0.2.x",
+        "node-red-dashboard":"2.15.x",
+        "node-red-contrib-mdashboard":"0.1.7",
         "node-red-contrib-graphs":"0.3.5",
         "node-red-node-youtube":"0.0.5",
         "node-red-node-weather-underground":"0.1.12",
@@ -21,9 +21,9 @@
         "node-red-node-instagram":"0.1.0",
         "node-red-node-google":"0.1.4",
         "node-red-contrib-admin":"0.0.6",
-        "node-red-node-email":"0.1.*",
-        "node-red-node-mysql":"0.0.16",
-        "node-red-node-sqlite":"0.2.3",
-        "node-red-contrib-telegrambot":"3.1.1"
+        "node-red-node-email":"1.6.*",
+        "node-red-node-mysql":"0.0.18",
+        "node-red-node-sqlite":"0.3.7",
+        "node-red-contrib-telegrambot":"5.5.1"
     }
 }
