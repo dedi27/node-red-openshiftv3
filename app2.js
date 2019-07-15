@@ -16,7 +16,7 @@ var server = http.createServer(app);
 var settings = {
     nodesDir: "/Users/allomov/work/altoros/node-red/app/nodes",
     storageModule: require("node-red-flows-mongo"),
-    mongoUrl: 'mongodb://userXOU:FwsvooVFEWOO1sTf@mongodb:27017/nodered',
+    mongoUrl: 'mongodb://nodered:enl832-tx-re@mongodb-nodered:27017/nodered',
     httpAdminRoot:"/",
     httpNodeRoot: "/api",
     uiPort: 8080,
