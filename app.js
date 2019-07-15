@@ -14,7 +14,8 @@ var server = http.createServer(app);
 
 // Create the settings object - see default settings.js file for other options
 var settings = {
-    nodesDir: "/Users/allomov/work/altoros/node-red/app/nodes",
+    //nodesDir: "/Users/allomov/work/altoros/node-red/app/nodes",
+    nodesDir: "/data",
     httpAdminRoot:"/",
     httpNodeRoot: "/api",
     uiPort: 8080,
