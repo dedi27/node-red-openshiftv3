@@ -24,7 +24,6 @@
         "node-red-node-email":"1.6.*",
         "node-red-node-mysql":"0.0.18",
         "node-red-node-sqlite":"0.3.7",
-        "node-red-contrib-freeboard":"0.0.7",
         "node-red-contrib-telegrambot":"5.5.1"
     }
 }
