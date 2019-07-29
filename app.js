@@ -36,7 +36,8 @@ var settings = {
                 permissions: "read"
             }
         ]
-    }
+    },
+    httpNodeAuth: {user:"idc",pass:"$2a$08$tCNSzODpMjJ.jtqB/ntDDeMa1V1DRG4pInCE6nTNyM16mdm9ofhBG"}
 };
 
 // Initialise the runtime with a server and settings
