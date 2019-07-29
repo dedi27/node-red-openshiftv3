@@ -17,6 +17,7 @@ var settings = {
     //nodesDir: "/Users/allomov/work/altoros/node-red/app/nodes",
     nodesDir: "/data",
     userDir: "/data",
+    flowFile: 'flows.json',
     httpAdminRoot:"/",
     httpNodeRoot: "/api",
     uiPort: 8080,
