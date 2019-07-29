@@ -21,7 +21,22 @@ var settings = {
     httpAdminRoot:"/",
     httpNodeRoot: "/api",
     uiPort: 8080,
-    functionGlobalContext: { }    // enables global context
+    functionGlobalContext: { },    // enables global context
+    adminAuth: {
+        type: "credentials",
+        users: [
+            {
+                username: "admin",
+                password: "$2a$08$Hniw4WdK87asPEgT0AFdZuj0chpS8/ACGu0GGmbgf33CxmUor.vRu",
+                permissions: "*"
+            },
+            {
+                username: "idc",
+                password: "$2a$08$tCNSzODpMjJ.jtqB/ntDDeMa1V1DRG4pInCE6nTNyM16mdm9ofhBG",
+                permissions: "read"
+            }
+        ]
+    }
 };
 
 // Initialise the runtime with a server and settings
