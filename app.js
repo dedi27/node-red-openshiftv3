@@ -16,6 +16,7 @@ var server = http.createServer(app);
 var settings = {
     //nodesDir: "/Users/allomov/work/altoros/node-red/app/nodes",
     nodesDir: "/data",
+    userDir: "/data",
     httpAdminRoot:"/",
     httpNodeRoot: "/api",
     uiPort: 8080,
