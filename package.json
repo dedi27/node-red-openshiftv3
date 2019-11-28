@@ -9,7 +9,6 @@
         "express": "^4.13.4",
         "basic-auth": "2.0.1",
         "bcryptjs": "2.4.3",
-        "mqtt": "3.0.x",
         "node-red": "1.0.2",
         "node-red-contrib-admin":"0.0.6",
         "node-red-node-mysql":"0.0.18",
