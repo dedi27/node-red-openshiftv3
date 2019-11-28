@@ -9,11 +9,13 @@
         "express": "^4.13.4",
         "basic-auth": "2.0.1",
         "bcryptjs": "2.4.3",
+        "mqtt": "3.0.x",
         "node-red": "1.0.2",
         "node-red-contrib-admin":"0.0.6",
         "node-red-node-mysql":"0.0.18",
         "node-red-node-sqlite":"0.3.7",
-        "node-red-contrib-telegrambot":"5.5.1"
+        "node-red-contrib-telegrambot":"5.5.1",
+        "node-red-dashboard":"latest"
     },
     "engine": {
       "node": "*",
